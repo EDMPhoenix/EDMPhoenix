@@ -14,4 +14,4 @@ Ready to adapt swiftly to the blistering pace of technological advancements, I v
 - Tools: Docker, Git, Jenkins, VSCode, PyCharm, Selenium, Postman, Jira, Trello, Slack, AWS, Microsoft Azure
 
 ## Contact 📬
-If you want to contact me you can reach me at [Gmail](yumenotame7204@gmail.com) | [Telegram](https://t.me/Apollo057).
+If you want to contact me you can reach me at [Gmail](mailto:yumenotame7204@gmail.com) | [Telegram](https://t.me/Apollo057).
