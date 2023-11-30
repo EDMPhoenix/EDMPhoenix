@@ -1,4 +1,4 @@
-<img src='./src/welcome-friends-arcade.gif' width='100%' >
+<img src='./src/welcome-friends-prism.gif' width='100%' >
 
 ## Get to Know Me 🍀
 
