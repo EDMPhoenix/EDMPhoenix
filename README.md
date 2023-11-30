@@ -1,3 +1,5 @@
+<img src='./src/welcome-friends-prism.gif' width='100%' >
+
 ## Get to Know Me 🍀
 
 As a nascent professional taking the first steps on the expansive path that is the field of technology, my enthusiasm for delving into unfamiliar terrain is rapidly growing. 
