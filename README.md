@@ -15,3 +15,6 @@ Ready to adapt swiftly to the blistering pace of technological advancements, I v
 
 ## Contact 📬
 If you want to contact me you can reach me at [Gmail](mailto:yumenotame7204@gmail.com) | [Telegram](https://t.me/Apollo057).
+
+<img align="left" src='https://komarev.com/ghpvc/?username=EdmTechPhoenix&label=Profile%20views&color=0e75b6&style=flat' alt='EdmTechPhoenix'>
+<img align="right" src="https://img.shields.io/github/followers/EdmTechPhoenix?label=Follow&style=social" />
